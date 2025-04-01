@@ -1,5 +1,15 @@
-.cabeçalho{background-color: rgb(23, 203, 23);
+.cabeçalho{
+background-color: rgb(23, 203, 23);
 color: black;
 padding: 15px;
 text-align: center;
+}
+
+.lista-principal{
+list-style: nome;
+padding: 0;
+display: flex;
+justify-content: center;
+
+
 }
