@@ -6,7 +6,7 @@ text-align: center;
 }
 
 .lista-principal{
-list-style: nome;
+list-style: none;
 padding: 0;
 display: flex;
 justify-content: center;
